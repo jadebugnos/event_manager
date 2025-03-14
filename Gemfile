@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem "rubocop", "~> 1.73"
 
 gem "google-apis-civicinfo_v2", "~> 0.24.0"
+
+gem "csv", "~> 3.3"
